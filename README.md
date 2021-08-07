@@ -43,5 +43,5 @@ git log --oneline --decorate --all --graph
 _see cloud repository location_\
 git remote -v
 
-_Change repository location in cloud_
+_Change repository location in cloud_\
 git remote set-url origin 'new link repository' (no quotation marks)
