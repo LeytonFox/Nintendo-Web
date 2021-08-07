@@ -31,3 +31,17 @@ git remote add origin 'link repository' (no quotation marks)
 
 _Send all changes to cloud repository with 'main branch' already created in GitHub_\
 git push -f origin main
+
+
+**others commands**
+_see my commits_\
+git log --oneline
+
+_see my all commits with more details(actual branch, branches)_\
+git log --oneline --decorate --all --graph
+
+_see cloud repository location_\
+git remote -v
+
+_Change repository location in cloud_
+git remote set-url origin 'new link repository' (no quotation marks)
