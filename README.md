@@ -33,6 +33,7 @@ _Send all changes to cloud repository with 'main branch' already created in GitH
 git push -f origin main
 
 <br />
+
 **others commands**
 
 _see my commits_\
