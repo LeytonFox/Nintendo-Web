@@ -4,7 +4,7 @@
 Super Mario. \
 The Legend of Zelda.\
 Pokemon. <br />
-  Metroid.
+Metroid.
 
 
 The action of every agent <br />
